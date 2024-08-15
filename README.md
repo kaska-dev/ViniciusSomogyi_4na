@@ -1,6 +1,6 @@
 # Documentação back-end
 
-## Sessão 01
+## Season 01
 
 - Lista
 
